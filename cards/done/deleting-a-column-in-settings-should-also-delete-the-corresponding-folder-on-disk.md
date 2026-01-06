@@ -1,9 +1,9 @@
 ---
 title: deleting a column in settings should also delete the corresponding folder on disk
-column: todo
+column: done
 position: zyym
 created: 2026-01-06T10:59:47Z
-modified: 2026-01-06T11:00:05Z
+modified: 2026-01-06T18:00:00Z
 labels: [improvement, important]
 ---
 
