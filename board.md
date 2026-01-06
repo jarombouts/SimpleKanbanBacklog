@@ -3,8 +3,6 @@ title: SimpleKanban Backlog
 columns:
   - id: todo
     name: To Do
-  - id: in-progress
-    name: In Progress
   - id: done
     name: Done
 labels:
@@ -13,16 +11,16 @@ labels:
     color: "#4fd253"
   - id: bug
     name: Bug
-    color: "#e74939"
+    color: "#e74537"
   - id: improvement
     name: Improvement
-    color: "#2e871d"
+    color: "#2d871d"
   - id: refactor
     name: Refactor / Cleanup
     color: "#60a9ae"
   - id: feature
     name: Feature
-    color: "#3198db"
+    color: "#3098db"
   - id: docs
     name: Docs
     color: "#9b57b6"

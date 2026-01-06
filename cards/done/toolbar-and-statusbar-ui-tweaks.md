@@ -1,9 +1,9 @@
 ---
 title: Toolbar and statusbar UI tweaks
 column: done
-position: ts
+position: yk
 created: 2026-01-06T12:30:00Z
-modified: 2026-01-06T10:24:06Z
+modified: 2026-01-06T11:04:43Z
 labels: [feature, important]
 ---
 

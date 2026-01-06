@@ -1,9 +1,9 @@
 ---
 title: Implement git sync
 column: done
-position: u
+position: yj
 created: 2026-01-06T09:00:00Z
-modified: 2026-01-06T10:00:00Z
+modified: 2026-01-06T11:03:59Z
 labels: [feature]
 ---
 

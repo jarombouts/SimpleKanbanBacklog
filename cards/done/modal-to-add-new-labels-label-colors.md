@@ -1,9 +1,9 @@
 ---
 title: Modal to add new labels + label colors
-column: todo
-position: zym
+column: done
+position: q
 created: 2026-01-05T18:42:20Z
-modified: 2026-01-06T10:39:41Z
+modified: 2026-01-06T11:00:16Z
 labels: [feature, important]
 ---
 

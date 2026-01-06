@@ -1,9 +1,9 @@
 ---
 title: New card modal does not have label picker
-column: todo
-position: zyv
+column: done
+position: tg
 created: 2026-01-06T10:33:08Z
-modified: 2026-01-06T10:39:15Z
+modified: 2026-01-06T11:00:14Z
 labels: [improvement, important]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Fix card selection after bulk delete
 column: todo
-position: ym
+position: zyys
 created: 2026-01-05T18:30:00Z
-modified: 2026-01-06T09:55:37Z
+modified: 2026-01-06T11:02:21Z
 labels: [improvement]
 ---
 

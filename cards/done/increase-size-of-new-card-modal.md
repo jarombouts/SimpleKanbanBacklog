@@ -1,9 +1,9 @@
 ---
 title: "Increase size of \"new card\" modal"
 column: done
-position: k
+position: f
 created: 2026-01-06T08:28:22Z
-modified: 2026-01-06T10:23:47Z
+modified: 2026-01-06T10:56:23Z
 labels: [improvement, important]
 ---
 

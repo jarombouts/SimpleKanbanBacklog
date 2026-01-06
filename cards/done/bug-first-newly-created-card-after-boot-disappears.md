@@ -1,9 +1,9 @@
 ---
 title: "Bug: first newly created card after boot disappears!"
 column: done
-position: zyx
+position: yg
 created: 2026-01-06T10:33:59Z
-modified: 2026-01-06T11:45:00Z
+modified: 2026-01-06T11:01:46Z
 labels: [bug, important]
 ---
 

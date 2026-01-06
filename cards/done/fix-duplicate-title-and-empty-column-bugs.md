@@ -3,7 +3,7 @@ title: Fix duplicate title and empty column bugs
 column: done
 position: tm
 created: 2026-01-06T10:00:00Z
-modified: 2026-01-06T10:06:57Z
+modified: 2026-01-06T11:01:41Z
 labels: [bug]
 ---
 
