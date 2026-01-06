@@ -8,6 +8,9 @@ columns:
   - id: done
     name: Done
 labels:
+  - id: improvement
+    name: Improvement
+    color: "#557711"
   - id: feature
     name: Feature
     color: "#3498db"
