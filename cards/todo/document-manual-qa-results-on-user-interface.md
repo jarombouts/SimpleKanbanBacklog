@@ -1,10 +1,10 @@
 ---
-title: Run manual QA on user interface
+title: Document manual QA results on user interface
 column: todo
 position: n
 created: 2026-01-05T10:00:44Z
-modified: 2026-01-05T18:05:55Z
-labels: []
+modified: 2026-01-06T08:51:55Z
+labels: [docs]
 ---
 
 Ongoing task to manually run quality assurance on the user interface of the SimpleKanban app
