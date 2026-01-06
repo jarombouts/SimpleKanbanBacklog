@@ -1,9 +1,9 @@
 ---
 title: Fix duplicate title and empty column bugs
 column: done
-position: v
+position: tm
 created: 2026-01-06T10:00:00Z
-modified: 2026-01-06T10:30:00Z
+modified: 2026-01-06T10:06:57Z
 labels: [bug]
 ---
 

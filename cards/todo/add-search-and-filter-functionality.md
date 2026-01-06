@@ -1,9 +1,9 @@
 ---
 title: Add search and filter functionality
 column: todo
-position: zw
+position: zy
 created: 2026-01-05T18:30:00Z
-modified: 2026-01-06T09:09:58Z
+modified: 2026-01-06T09:33:41Z
 labels: [feature]
 ---
 

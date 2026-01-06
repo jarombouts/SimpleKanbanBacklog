@@ -1,9 +1,9 @@
 ---
 title: Toolbar and statusbar UI tweaks
-column: todo
-position: zx
+column: done
+position: ts
 created: 2026-01-06T12:30:00Z
-modified: 2026-01-06T09:29:56Z
+modified: 2026-01-06T10:24:06Z
 labels: [feature, important]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Add git menu commands
 column: done
-position: zx
+position: l
 created: 2026-01-06T11:00:00Z
-modified: 2026-01-06T09:08:47Z
+modified: 2026-01-06T09:56:26Z
 labels: [feature, important]
 ---
 

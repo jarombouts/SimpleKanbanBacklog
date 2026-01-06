@@ -1,9 +1,9 @@
 ---
 title: Fix drag reorder within column
-column: in-progress
-position: n
+column: done
+position: x
 created: 2026-01-06T12:45:00Z
-modified: 2026-01-06T09:16:15Z
+modified: 2026-01-06T10:27:11Z
 labels: [bug]
 ---
 

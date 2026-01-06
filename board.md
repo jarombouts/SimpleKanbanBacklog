@@ -26,6 +26,9 @@ labels:
   - id: refactor
     name: Refactor
     color: "#27ae60"
+  - id: wontdo
+    name: Won't Do
+    color: "#95a5a6"
 ---
 
 # SimpleKanban Backlog

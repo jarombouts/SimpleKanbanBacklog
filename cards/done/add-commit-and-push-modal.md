@@ -1,9 +1,9 @@
 ---
 title: Add commit and push modal
 column: done
-position: zy
+position: m
 created: 2026-01-06T12:00:00Z
-modified: 2026-01-06T09:08:40Z
+modified: 2026-01-06T09:56:32Z
 labels: [feature, important]
 ---
 
