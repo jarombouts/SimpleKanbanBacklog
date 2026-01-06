@@ -1,10 +1,10 @@
 ---
 title: Add git menu commands
 column: todo
-position: z
+position: zx
 created: 2026-01-06T11:00:00Z
-modified: 2026-01-06T11:00:00Z
-labels: [feature]
+modified: 2026-01-06T09:08:47Z
+labels: [feature, important]
 ---
 
 ## Description

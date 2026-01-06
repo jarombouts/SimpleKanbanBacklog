@@ -3,8 +3,8 @@ title: Fix card selection after bulk delete
 column: todo
 position: w
 created: 2026-01-05T18:30:00Z
-modified: 2026-01-05T18:44:33Z
-labels: [bug]
+modified: 2026-01-06T09:09:10Z
+labels: [improvement]
 ---
 
 ## Description
