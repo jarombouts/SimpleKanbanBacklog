@@ -1,9 +1,9 @@
 ---
 title: Fix drag reorder within column
-column: todo
-position: zc
+column: in-progress
+position: n
 created: 2026-01-06T12:45:00Z
-modified: 2026-01-06T12:45:00Z
+modified: 2026-01-06T09:16:15Z
 labels: [bug]
 ---
 

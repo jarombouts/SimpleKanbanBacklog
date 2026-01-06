@@ -3,8 +3,8 @@ title: Config button to edit board.md
 column: todo
 position: t
 created: 2026-01-05T18:44:02Z
-modified: 2026-01-06T08:47:39Z
-labels: [feature]
+modified: 2026-01-06T09:16:22Z
+labels: [feature, important]
 ---
 
 - Add a UI element, separated by some whitespace, to the right of the 'archive' and 'delete' buttons, that opens a board settings modal

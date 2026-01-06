@@ -1,6 +1,6 @@
 ---
 title: "Increase size of \"new card\" modal"
-column: todo
+column: done
 position: z
 created: 2026-01-06T08:28:22Z
 modified: 2026-01-06T09:08:56Z
