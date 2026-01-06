@@ -1,9 +1,9 @@
 ---
 title: Document manual QA results on user interface
-column: in-progress
+column: done
 position: n
 created: 2026-01-05T10:00:44Z
-modified: 2026-01-06T12:30:00Z
+modified: 2026-01-06T14:00:00Z
 labels: [docs]
 ---
 
