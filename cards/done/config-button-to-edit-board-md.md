@@ -1,9 +1,9 @@
 ---
 title: Config button to edit board.md
-column: todo
+column: done
 position: a
 created: 2026-01-05T18:44:02Z
-modified: 2026-01-06T09:55:55Z
+modified: 2026-01-06T11:30:00Z
 labels: [feature, important]
 ---
 

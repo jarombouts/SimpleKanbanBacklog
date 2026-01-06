@@ -10,22 +10,22 @@ columns:
 labels:
   - id: important
     name: Important
-    color: "#40ff20"
-  - id: improvement
-    name: Improvement
-    color: "#557711"
-  - id: feature
-    name: Feature
-    color: "#3498db"
+    color: "#4fd253"
   - id: bug
     name: Bug
-    color: "#e74c3c"
+    color: "#e74939"
+  - id: improvement
+    name: Improvement
+    color: "#2e871d"
+  - id: refactor
+    name: Refactor / Cleanup
+    color: "#60a9ae"
+  - id: feature
+    name: Feature
+    color: "#3198db"
   - id: docs
     name: Docs
-    color: "#9b59b6"
-  - id: refactor
-    name: Refactor
-    color: "#27ae60"
+    color: "#9b57b6"
   - id: wontdo
     name: Won't Do
     color: "#95a5a6"
