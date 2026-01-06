@@ -1,10 +1,10 @@
 ---
 title: Toolbar and statusbar UI tweaks
 column: todo
-position: zym
+position: zx
 created: 2026-01-06T12:30:00Z
-modified: 2026-01-06T09:06:28Z
-labels: [feature]
+modified: 2026-01-06T09:29:56Z
+labels: [feature, important]
 ---
 
 ## Description
