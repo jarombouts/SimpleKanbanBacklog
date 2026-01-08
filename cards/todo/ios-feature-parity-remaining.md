@@ -3,7 +3,7 @@ title: iOS Feature Parity - Remaining Items
 column: todo
 position: t
 created: 2026-01-07T08:52:04Z
-modified: 2026-01-08T11:30:00Z
+modified: 2026-01-08T14:46:00Z
 labels: [feature]
 ---
 
@@ -32,6 +32,17 @@ Remaining iOS features needed to reach parity with macOS version.
 - [x] Toolbar with label filter, archive, delete, settings buttons
 - [x] Archive/delete toolbar buttons as drop targets
 
+### Editor Enhancements
+- [x] Markdown syntax highlighting (UITextView with attributed text, regex-based)
+- [x] Undo/redo support (keyboard toolbar buttons + system UndoManager integration)
+
+### Multi-select
+- [x] Multi-select mode with checklist toggle button
+- [x] Bulk move to column
+- [x] Bulk add/remove labels
+- [x] Bulk archive
+- [x] Bulk delete
+
 ## Still TODO
 
 ### Column Management
@@ -39,10 +50,6 @@ Remaining iOS features needed to reach parity with macOS version.
 
 ### Board Settings
 - [ ] Card template editing
-
-### Editor Enhancements
-- [ ] Markdown syntax highlighting
-- [ ] Undo/redo support
 
 ### iPad-specific
 - [ ] Pointer/trackpad hover states
@@ -52,7 +59,7 @@ Remaining iOS features needed to reach parity with macOS version.
 
 ## Notes
 
-Priority for remaining items:
-1. Column collapse/expand (high usage)
-2. Undo/redo (important for editing)
-3. Rest as polish items
+Most high-priority iOS features are now complete. Remaining items are polish/enhancement features:
+1. Column collapse/expand (UX enhancement)
+2. Card template editing (less common use case)
+3. iPad-specific features (hardware keyboard, pointer, multitasking)
