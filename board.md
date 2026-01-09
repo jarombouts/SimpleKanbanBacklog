@@ -10,7 +10,7 @@ columns:
 labels:
   - id: important
     name: Important
-    color: "#4fd253"
+    color: "#adb900"
   - id: bug
     name: Bug
     color: "#e74537"

@@ -3,7 +3,7 @@ title: iOS Feature Parity - Remaining Items
 column: todo
 position: t
 created: 2026-01-07T08:52:04Z
-modified: 2026-01-08T14:46:00Z
+modified: 2026-01-09T17:00:00Z
 labels: [feature]
 ---
 
@@ -43,15 +43,19 @@ Remaining iOS features needed to reach parity with macOS version.
 - [x] Bulk archive
 - [x] Bulk delete
 
-## Still TODO
+## Completed (2026-01-09)
 
 ### Column Management
-- [ ] Column collapse/expand (tap header or swipe)
+- [x] Column collapse/expand (tap header chevron to toggle)
 
 ### Board Settings
-- [ ] Card template editing
+- [x] Card template editing (NavigationLink to template editor)
 
 ### iPad-specific
+- [x] Hardware keyboard shortcuts (arrows, Enter, Delete, Cmd+N, Cmd+1-9, etc.)
+
+## Still TODO (iPad Polish)
+
 - [ ] Pointer/trackpad hover states
 - [ ] Split View multitasking
 - [ ] Slide Over support
@@ -59,7 +63,4 @@ Remaining iOS features needed to reach parity with macOS version.
 
 ## Notes
 
-Most high-priority iOS features are now complete. Remaining items are polish/enhancement features:
-1. Column collapse/expand (UX enhancement)
-2. Card template editing (less common use case)
-3. iPad-specific features (hardware keyboard, pointer, multitasking)
+Most high-priority iOS features are now complete. Remaining items are low-priority iPad polish features that primarily affect users with trackpads or multitasking workflows.

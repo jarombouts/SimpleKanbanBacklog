@@ -1,6 +1,6 @@
 ---
 title: Create 'help' section accessible through macos menu bar 'Help' section
-column: todo
+column: done
 position: w
 created: 2026-01-07T18:35:07Z
 modified: 2026-01-07T18:35:07Z

@@ -1,6 +1,6 @@
 ---
 title: Remove symbol next to sync status
-column: todo
+column: done
 position: z
 created: 2026-01-07T18:38:23Z
 modified: 2026-01-07T18:38:23Z

@@ -1,6 +1,6 @@
 ---
 title: Access settings menu through macos menu bar
-column: todo
+column: done
 position: zm
 created: 2026-01-07T18:36:16Z
 modified: 2026-01-09T15:41:24Z
