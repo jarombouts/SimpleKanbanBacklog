@@ -3,6 +3,8 @@ title: SimpleKanban Backlog
 columns:
   - id: todo
     name: To Do
+  - id: doing
+    name: Doing
   - id: done
     name: Done
 labels:
@@ -23,7 +25,7 @@ labels:
     color: "#3098db"
   - id: docs
     name: Docs
-    color: "#9b57b6"
+    color: "#b640ad"
   - id: wontdo
     name: Won't Do
     color: "#95a5a6"

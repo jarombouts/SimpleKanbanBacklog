@@ -1,9 +1,9 @@
 ---
 title: iOS Multi-select and Bulk Operations
-column: todo
-position: u
+column: done
+position: i
 created: 2026-01-07T08:52:04Z
-modified: 2026-01-08T14:48:16Z
+modified: 2026-01-09T15:41:17Z
 labels: [feature]
 ---
 

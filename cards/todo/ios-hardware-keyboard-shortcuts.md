@@ -1,9 +1,9 @@
 ---
 title: iOS Hardware Keyboard Shortcuts
 column: todo
-position: q
+position: tm
 created: 2026-01-07T08:52:04Z
-modified: 2026-01-07T08:52:04Z
+modified: 2026-01-09T13:33:48Z
 labels: [feature]
 ---
 
